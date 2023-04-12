@@ -1,4 +1,6 @@
-package br.com.alura.tdd.service;
+package br.com.alura.tdd.service.calculadora;
+
+import br.com.alura.tdd.service.calculadora.CalculadoraService;
 
 public class CalculadoraServiceTestes {
     public static void main(String[] args) {
